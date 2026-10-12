@@ -1,0 +1,7 @@
+### Week 4 Mini Plan
+
+1. Prepare at least 7 tax-related documents, each containing 500+ words, and write a five-sentence reference summary for each.
+2. Implement TextRank for extractive summarisation and an LLM with a fixed prompt for abstractive summarisation.
+3. Evaluate both methods using ROUGE-1, ROUGE-2, ROUGE-L, and BERTScore.
+4. Manually score at least 10 summaries per method for faithfulness, coverage, and readability, and investigate at least 5 disagreements with automatic metrics.
+5. **Success target:** Complete the evaluation for all 7 documents, test both methods, and document at least 5 metric-versus-human-score disagreements.
